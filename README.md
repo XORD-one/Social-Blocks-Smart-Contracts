@@ -11,3 +11,4 @@ This repository contains the smart contract code for the Social Blocks project. 
 ├── package-lock.json         # Package lock file
 ├── package.json              # Package configuration file
 ```
+ 
